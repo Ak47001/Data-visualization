@@ -1,0 +1,55 @@
+Region,Country/ Region,2010,2011,2012,2013,2014,2015,2016
+North America,US,34.99,39.775,44.18,48.463,54.962,47.987,47.987
+North America,Canada,174.848,174.177,173.716,173.038,172.156,171.512,171.512
+North America,Mexico,11.691,11.394,11.424,11.079,10.816,7.977,7.977
+S. & Cent. America,Argentina,2.524,2.525,2.354,2.33,2.38,2.395,2.395
+S. & Cent. America,Brazil,14.246,15.05,15.314,15.593,16.184,13,12.634
+S. & Cent. America,Colombia,1.9,1.988,2.2,2.377,2.445,2.308,2.002
+S. & Cent. America,Ecuador,6.158,7.21,8.383,8.191,8,8,8
+S. & Cent. America,Peru,1.24,1.206,1.423,1.617,1.41,1.187,1.187
+S. & Cent. America,Trinidad & Tobago,0.83,0.83,0.83,0.83,0.83,0.728,0.243
+S. & Cent. America,Venezuela,296.501,297.571,297.735,298.35,299.953,300.878,300.978
+S. & Cent. America,Other S. & Cent. America,0.768,0.507,0.512,0.528,0.529,0.536,0.52
+Europe & Eurasia,Azerbaijan,7,7,7,7,7,7,7
+Europe & Eurasia,Denmark,0.899,0.805,0.73,0.673,0.61,0.491,0.44
+Europe & Eurasia,Italy,0.58,0.578,0.621,0.603,0.642,0.617,0.541
+Europe & Eurasia,Kazakhstan,30,30,30,30,30,30,30
+Europe & Eurasia,Norway,6.804,6.883,7.495,7.047,6.539,8.005,7.601
+Europe & Eurasia,Romania,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Europe & Eurasia,Russian Federation,105.8,105.709,105.492,105.016,103.164,102.375,109.5
+Europe & Eurasia,Turkmenistan,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Europe & Eurasia,United Kingdom,2.805,3.098,3.037,3.03,2.805,2.542,2.542
+Europe & Eurasia,Uzbekistan,0.594,0.594,0.594,0.594,0.594,0.594,0.594
+Europe & Eurasia,Other Europe & Eurasia,2.189,2.169,2.013,2.008,2.058,2.068,2.091
+Middle East,Iran,151.17,154.58,157.3,157.6,157.8,158.4,158.9
+Middle East,Iraq,115,143.1,140.3,144.211,143.069,142.503,153
+Middle East,Kuwait,101.5,101.5,101.5,101.5,101.5,101.5,101.5
+Middle East,Oman,5.5,5.5,5.5,4.974,5.151,5.306,5.373
+Middle East,Qatar,24.684,23.9,25.229,25.063,25.705,25.244,25.244
+Middle East,Saudi Arabia,264.516,265.405,265.85,265.85,267,266.578,266.455
+Middle East,Syria,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Middle East,United Arab Emirates,97.8,97.8,97.8,97.8,97.8,97.8,97.8
+Middle East,Yemen,3,3,3,3,3,3,3
+Middle East,Other Middle East,0.277,0.652,0.279,0.261,0.239,0.217,0.194
+Africa,Algeria,12.2,12.2,12.2,12.2,12.2,12.2,12.2
+Africa,Angola,9.5,9.055,12.667,12.667,12.598,11.776,11.567
+Africa,Chad,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Africa,Rep. of Congo (Brazzaville),1.6,1.6,1.6,1.6,1.6,1.6,1.6
+Africa,Egypt,4.5,4.3,4.2,3.9,3.681,3.473,3.473
+Africa,Equatorial Guinea,1.705,1.705,1.705,1.705,1.1,1.1,1.1
+Africa,Gabon,2,2,2,2,2,2,2
+Africa,Libya,47.097,48.014,48.472,48.363,48.363,48.363,48.363
+Africa,Nigeria,37.2,37.2,37.139,37.07,37.07,37.07,37.062
+Africa,South Sudan,NA,NA,3.5,3.5,3.5,3.5,3.5
+Africa,Sudan,5,5,1.5,1.5,1.5,1.5,1.5
+Africa,Tunisia,0.425,0.425,0.425,0.425,0.425,0.425,0.425
+Africa,Other Africa,2.266,2.186,3.684,3.684,3.684,3.684,3.684
+Asia Pacific,Australia,3.831,3.873,3.922,3.957,3.982,3.985,3.985
+Asia Pacific,Brunei,1.1,1.1,1.1,1.1,1.1,1.1,1.1
+Asia Pacific,China,23.236,23.749,24.409,24.702,25.142,25.655,25.655
+Asia Pacific,India,5.833,5.704,5.72,5.711,5.743,4.786,4.677
+Asia Pacific,Indonesia,4.23,3.741,3.741,3.693,3.625,3.603,3.307
+Asia Pacific,Malaysia,3.739,3.739,3.668,3.75,3.6,3.6,3.6
+Asia Pacific,Thailand,0.442,0.453,0.449,0.462,0.405,0.396,0.396
+Asia Pacific,Vietnam,4.4,4.4,4.4,4.4,4.4,4.4,4.4
+Asia Pacific,Other Asia Pacific,1.107,1.11,1.075,1.345,1.283,1.29,1.266
